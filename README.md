@@ -1,4 +1,4 @@
-# 🤖 Smart Café Robot
+# Smart Café Navigation Robot
 
 An autonomous café robot designed to navigate along a predefined path, detect obstacles, and deliver food to designated tables.
 
